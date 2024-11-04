@@ -6,6 +6,8 @@
 
 ![CodeByAndre GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByAndre&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAndre)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso/usei!
 
 <div style="display: inline_block"><br/>
